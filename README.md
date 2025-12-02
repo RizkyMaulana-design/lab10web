@@ -19,14 +19,11 @@
 
 ---
 
-<div align="center">
-
 #  **LAPORAN PRAKTIKUM**
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
 </p>
 
-</div>
 
 ---
 
