@@ -25,7 +25,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
 </p>
-### *Full Dark • Neon Glow • 3D Shadow UI*
 
 </div>
 
