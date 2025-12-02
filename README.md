@@ -5,12 +5,16 @@
   PRAKTIKUM 10 – PHP OOP
 </h1>
 
-### **Universitas Pelita Bangsa (DARK MODE EDITION)**
+### **Universitas Pelita Bangsa **
 
 > **Nama:** Rizky Maulana
+
 > **Kelas:** TI.24.A.3
+
 > **NIM:** 312410430
+
 > **Mata Kuliah:** Pemrograman Web
+
 > **Dosen Pengampu:** Agung Nugroho, S.Kom., M.Kom
 
 ---
