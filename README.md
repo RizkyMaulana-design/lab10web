@@ -14,7 +14,7 @@
 
 Untuk menjalankan MySQL Server dari menu XAMPP Control panel.
 
-<img src="https://github.com/Mahfuz311/Lab8Web/blob/cc1f6d0de626cf37fc95bafc566f4ea340f1e9a4/screenshot/1%20xampp.png" width="40%">
+<img width="496" height="322" alt="1 xampp" src="https://github.com/user-attachments/assets/920214aa-0387-4281-a205-58be7f9ca7cd" />
 
 ---
 
@@ -24,7 +24,8 @@ Akses direktory tersebut pada web server dengan mengakses URL: http://localhost/
 
 Outputnya:
 
-<img src="https://github.com/Mahfuz311/Lab10Web/blob/eb237fb0c63321f91647791e0740bc9012d64545/lab10_php_oop/screenshot/0.%20output.png" width="800">
+<img width="959" height="560" alt="2 readme" src="https://github.com/user-attachments/assets/d14e4eb3-f617-4eb2-8c42-e4d102ee66f0" />
+
 
 ---
 
@@ -32,11 +33,13 @@ Outputnya:
 
 Code:
 
-<img src="https://github.com/Mahfuz311/Lab10Web/blob/eb237fb0c63321f91647791e0740bc9012d64545/lab10_php_oop/screenshot/1.%20vscode.png" width="40%">
+<img width="1048" height="1812" alt="3 readme" src="https://github.com/user-attachments/assets/22dd8921-c2b9-4b62-bf04-22325999f067" />
+
 
 Outputnya:
 
-<img src="https://github.com/Mahfuz311/Lab10Web/blob/eb237fb0c63321f91647791e0740bc9012d64545/lab10_php_oop/screenshot/2.%20output.png" width="800">
+<img width="959" height="562" alt="4 readme" src="https://github.com/user-attachments/assets/f1306cf0-b954-4cf2-99e6-3f15ed1f07be" />
+
 
 ---
 
@@ -44,7 +47,8 @@ Outputnya:
 
 Code:
 
-<img src="https://github.com/Mahfuz311/Lab10Web/blob/eb237fb0c63321f91647791e0740bc9012d64545/lab10_php_oop/screenshot/3.%20vscode.png" width="40%">
+
+<img width="1696" height="1660" alt="5 readme" src="https://github.com/user-attachments/assets/1453d73d-22e7-4002-8480-343d762e948f" />
 
 ---
 
@@ -52,11 +56,13 @@ Code:
 
 Code:
 
-<img src="https://github.com/Mahfuz311/Lab10Web/blob/eb237fb0c63321f91647791e0740bc9012d64545/lab10_php_oop/screenshot/4.%20vscode.png" width="40%">
+<img width="1202" height="900" alt="6 readme" src="https://github.com/user-attachments/assets/9baa1727-03c4-4a4e-89d1-bf798dbc9265" />
+
 
 Outputnya:
 
-<img src="https://github.com/Mahfuz311/Lab10Web/blob/eb237fb0c63321f91647791e0740bc9012d64545/lab10_php_oop/screenshot/5.%20output.png" width="800">
+<img width="959" height="557" alt="7 readme" src="https://github.com/user-attachments/assets/dba57714-f998-45da-9135-daa1c1ecdca9" />
+
 
 ---
 
@@ -64,7 +70,8 @@ Outputnya:
 
 Code:
 
-<img src="https://github.com/Mahfuz311/Lab10Web/blob/eb237fb0c63321f91647791e0740bc9012d64545/lab10_php_oop/screenshot/6.%20vscode.png" width="40%">
+
+<img width="1770" height="4434" alt="8 readme" src="https://github.com/user-attachments/assets/f71cb493-c985-415f-b3e7-8409d4e21d29" />
 
 ---
 
@@ -183,31 +190,37 @@ http://localhost/project_modular_lab8-10/index.php?mod=barang&page=list
 
 ## 7. Code Class Library/Database.PHP
 
-<img src="https://github.com/Mahfuz311/Lab10Web/blob/eb237fb0c63321f91647791e0740bc9012d64545/lab10_php_oop/screenshot/7.%20vscode.png" width="40%">
+
+<img width="1648" height="1736" alt="9 readme" src="https://github.com/user-attachments/assets/3fd8e2c1-f0a1-443c-b47f-39e90c3ee48b" />
 
 -----
 
 ## 8. Code Library/Form.PHP
 
-<img src="https://github.com/Mahfuz311/Lab10Web/blob/eb237fb0c63321f91647791e0740bc9012d64545/lab10_php_oop/screenshot/8.%20vscode.png" width="40%">
+<img width="1972" height="1204" alt="10 readme" src="https://github.com/user-attachments/assets/fb04f937-cfed-4ce5-b196-bcd6d4736830" />
+
 
 -----
 
 ## 9. Output
 
-<img src="https://github.com/Mahfuz311/Lab10Web/blob/eb237fb0c63321f91647791e0740bc9012d64545/lab10_php_oop/screenshot/9.%20output.png" width="800">
+<img width="959" height="563" alt="11 readme" src="https://github.com/user-attachments/assets/5faa005b-f4e3-402a-b5fc-a449e58dbc67" />
+
 
 **Output Form Tambah Produk**
 
-<img src="https://github.com/Mahfuz311/Lab10Web/blob/eb237fb0c63321f91647791e0740bc9012d64545/lab10_php_oop/screenshot/10.%20output.png" width="800">
+<img width="959" height="564" alt="12 readme" src="https://github.com/user-attachments/assets/fd22b1c4-990b-49a7-9e1c-ee6e6ac832a3" />
+
 
 **Output isi Form Produk**
 
-<img src="https://github.com/Mahfuz311/Lab10Web/blob/eb237fb0c63321f91647791e0740bc9012d64545/lab10_php_oop/screenshot/11.%20output.png" width="800">
+<img width="959" height="563" alt="13 readme" src="https://github.com/user-attachments/assets/90006c33-368d-4c09-a950-41674ce10d6e" />
+
 
 **Output Hasilnya**
 
-<img src="https://github.com/Mahfuz311/Lab10Web/blob/eb237fb0c63321f91647791e0740bc9012d64545/lab10_php_oop/screenshot/12.%20output.png" width="800">
+<img width="959" height="563" alt="14 readme" src="https://github.com/user-attachments/assets/9a147a74-a25f-4851-83a2-51932270cb9a" />
+
 
 Data akan tersimpan otomatis di Database.
 
