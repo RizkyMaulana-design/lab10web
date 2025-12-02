@@ -1,7 +1,7 @@
 # Praktikum 10 - PHP OOP
-**Nama:** Mahfuz Fauzi  
+**Nama:** Rizky Maulana 
 **Kelas:** TI.24.A.3  
-**NIM:** 312410412  
+**NIM:** 312410430  
 **Mata Kuliah:** Pemrograman Web  
 **Dosen Pengampu:** Agung Nugroho, S.Kom., M.Kom  
 **Universitas Pelita Bangsa**
@@ -18,7 +18,7 @@ Untuk menjalankan MySQL Server dari menu XAMPP Control panel.
 
 ---
 
-### Buat folder baru dengan nama ```lab9_php_oop``` pada docroot webserver ```(htdocs)```
+### Buat folder baru dengan nama ```lab10_php_oop``` pada docroot webserver ```(htdocs)```
 
 Akses direktory tersebut pada web server dengan mengakses URL: http://localhost/lab10_php_oop/
 
