@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00FFF9&center=true&vCenter=true&width=550&lines=Welcome+to+My+Repository!;Praktikum+PHP+OOP;Universitas+Pelita+Bangsa;Rizky+Maulana+|+312410430" />
+</p>
+
 
 ---
 
@@ -5,27 +9,44 @@
   PRAKTIKUM 10 – PHP OOP
 </h1>
 
-### **Universitas Pelita Bangsa **
-
-> **Nama:** Rizky Maulana
-
-> **Kelas:** TI.24.A.3
-
-> **NIM:** 312410430
-
-> **Mata Kuliah:** Pemrograman Web
-
-> **Dosen Pengampu:** Agung Nugroho, S.Kom., M.Kom
 
 ---
-</div>
 
-#  **LAPORAN PRAKTIKUM**
+<div align="center">
+
+### Universitas Pelita Bangsa 
+
+ **Nama:** Rizky Maulana
+
+ **Kelas:** TI.24.A.3
+
+ **NIM:** 312410430
+
+ **Mata Kuliah:** Pemrograman Web
+
+ **Dosen Pengampu:** Agung Nugroho, S.Kom., M.Kom
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RIZKY-%20MAULANA-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/NIM-312410430-orange?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Praktikum-PHP_OOP-00FFFF?style=for-the-badge&logo=php&logoColor=white">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
+</p>
+
+<div align="center">
+  
+   **LAPORAN PRAKTIKUM**
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
 </p>
 
 </div>
+
 ---
 
 # 🧩 **Langkah-langkah Praktikum**
@@ -42,7 +63,13 @@ Jalankan MySQL melalui **XAMPP Control Panel**.
 
 ---
 
-## 📁 **Buat folder baru `lab10_php_oop` pada htdocs**
+<h2>
+  <span style="color:#00eaff;">📁 <b>Buat folder baru </b></span>
+  <span style="color:#ff4d4d;"><code>lab10_php_oop</code></span>
+  <span style="color:#00eaff;"><b> pada htdocs</b></span>
+</h2>
+
+
 
 Akses:
 
@@ -248,5 +275,13 @@ Contoh URL:
 <div align="center">
 <img src="https://github.com/user-attachments/assets/9a147a74-a25f-4851-83a2-51932270cb9a" width="959" height="563" style="filter: drop-shadow(0 0 20px #ffd000);" />
 </div>
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,html,css,github,vscode" />
+</p>
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
