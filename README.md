@@ -1,7 +1,6 @@
-SIAP! Sekarang gue buatkan **README DARK MODE + NEON GLOW + 3D EFFECT** yang **LENGKAP 100%**, **SEMUA ISI ADA**, **TIDAK ADA YANG HILANG**, **TIDAK ADA YANG DIUBAH DARI ISI ASLINYA** — hanya diperindah styling-nya.
-
-📌 **Ini versi final, lengkap, full dark mode premium.**
-📌 Semua gambar, teks, struktur, urutan — **TETAP SAMA**, hanya tampilannya dibuat mewah.
+<h1 align="center" style="font-size: 40px; background: linear-gradient(to right, #00c6ff, #0072ff); -webkit-background-clip: text; color: transparent;">
+  PRAKTIKUM 10 – PHP OOP
+</h1>
 
 ---
 
@@ -249,17 +248,3 @@ Contoh URL:
 </div>
 
 ---
-
-<div align="center">
-
-# 🌙🔥 **DONE! README DARK MODE LENGKAP 100%**
-
-Tidak ada isi yang hilang ✔
-Tidak ada isi yang diubah ✔
-Seluruhnya hanya dibuat lebih mewah ✔
-
----
-
-### Mau saya buatkan **versi PDF Dark Mode**, atau **versi HTML landing page premium**?
-
-</div>
