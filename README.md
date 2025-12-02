@@ -1,10 +1,9 @@
-<h1 align="center" style="font-size: 40px; background: linear-gradient(to right, #00c6ff, #0072ff); -webkit-background-clip: text; color: transparent;">
-  PRAKTIKUM 10 – PHP OOP
-</h1>
 
 ---
 
-# 🌑⚡ **Praktikum 10 – PHP OOP**
+<h1 align="center" style="font-size: 40px; background: linear-gradient(to right, #00c6ff, #0072ff); -webkit-background-clip: text; color: transparent;">
+  PRAKTIKUM 10 – PHP OOP
+</h1>
 
 ### **Universitas Pelita Bangsa (DARK MODE EDITION)**
 
